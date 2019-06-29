@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://eagleho0523.github.io/sfopnoubl/iOS/Runner-signed.ipa</string>
+                    <string>https://eagleho0523.github.io/sfopnoubl/iOS/GPEWallet-v1.3.30-signed.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -23,7 +23,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>gpkAuth</string>
+                <string>GPE Wallet</string>
             </dict>
         </dict>
     </array>
